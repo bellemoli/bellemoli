@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellemoli
-- 👀 I’m interested in cloud dev and iOS dev
-- 🌱 I’m currently learning Swift, full stack cloud development
+- 👀 I’m interested in cloud dev and .NET 
+- 🌱 I’m currently learning c#, html, css, javascript
 - 📫 How to reach me: bellemoli@icloud.com
 
 <!---
